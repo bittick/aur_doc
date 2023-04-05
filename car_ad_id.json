@@ -1,0 +1,43 @@
+///api/car_ad/84065747/
+
+
+{
+    "id": 78278,
+    "ad_id": 84065747,
+    "link": "https://lalafo.kg/bishkek/ads/subaru-id-84065747",
+    "price": 5830.0,
+    "production_date": 2003,
+    "mileage": 354000,
+    "engine_capacity": 2.0,
+    "title": "Subaru Legacy: 2 л | 2003 г. | 354000 км | Универсал",
+    "description": "Газ автозаводка 4 летний 4 зимний покрышка титаны менен",
+    "images": [
+        "https://img5.lalafo.com/i/posters/original/a1/55/96/d186b6e441cc69c2e59e90d9db.jpeg",
+        "https://img5.lalafo.com/i/posters/original/19/37/8f/da31a31cfecc16840a361c850a.jpeg",
+        "https://img5.lalafo.com/i/posters/original/0d/b4/3b/cd90ec39df88086fd11484d5db.jpeg",
+        "https://img5.lalafo.com/i/posters/original/a9/28/88/8f297bb0c599485c00e787078c.jpeg",
+        "https://img5.lalafo.com/i/posters/original/42/25/35/5e866751b3c4e8e5e89befd11e.jpeg",
+        "https://img5.lalafo.com/i/posters/original/8c/13/69/cf799641df0144023789cf0f45.jpeg",
+        "https://img5.lalafo.com/i/posters/original/2a/7e/a4/ba6f99f863632c3a061c4a0715.jpeg",
+        "https://img5.lalafo.com/i/posters/original/be/e8/75/277138a3c0019f3761a81ed827.jpeg",
+        "https://img5.lalafo.com/i/posters/original/71/7b/0e/78130c9937305770fa2b8d866b.jpeg",
+        "https://img5.lalafo.com/i/posters/original/3a/38/24/1afeabc2a48ed10ee6b4934efc.jpeg",
+        "https://img5.lalafo.com/i/posters/original/17/48/7b/9c30a35a72c59202301154052e.jpeg",
+        "https://img5.lalafo.com/i/posters/original/f8/42/ca/9e8a0ec1d74adde4ab15d03cd6.jpeg",
+        "https://img5.lalafo.com/i/posters/original/3e/30/ed/70561d707ff7416f471eac3ebf.jpeg"
+    ],
+    "edit_date": "2023-04-06T01:00:14.849447+03:00",
+    "create_date": "2023-04-06T01:00:14.849466+03:00",
+    "aggregator": "lalafo.kg",
+    "brand": "Subaru",
+    "model": "Legacy",
+    "cars_engine": "Бензин, Газ",
+    "cars_gearbox": "Автоматическая, Типтроник",
+    "cars_type": "Универсал",
+    "cars_drive": "4WD, полный",
+    "condition": "Б/у",
+    "country": "Киргизстан",
+    "region": null,
+    "area": "Бишкек",
+    "color": "Черный"
+}

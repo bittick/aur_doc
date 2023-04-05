@@ -1,0 +1,60 @@
+//api/brand/?search=FE
+
+
+[
+    {
+        "name": "Dongfeng",
+        "car_models": [
+            {
+                "name": "MPV"
+            },
+            {
+                "name": "M-NV"
+            },
+            {
+                "name": "ZND"
+            }
+        ]
+    },
+    {
+        "name": "Ferrari",
+        "car_models": [
+            {
+                "name": "430"
+            }
+        ]
+    },
+    {
+        "name": "Hafei",
+        "car_models": []
+    },
+    {
+        "name": "DongFeng",
+        "car_models": [
+            {
+                "name": "EX1 EV"
+            },
+            {
+                "name": "S50 EV"
+            },
+            {
+                "name": "E70 EV"
+            },
+            {
+                "name": "A60"
+            },
+            {
+                "name": "Forthing T5 EVO"
+            },
+            {
+                "name": "Rich 6"
+            },
+            {
+                "name": "S60 EV"
+            },
+            {
+                "name": "H30 Cross"
+            }
+        ]
+    }
+]

@@ -1,0 +1,205 @@
+//api/brand/BMW/
+
+[
+    {
+        "name": "3 series"
+    },
+    {
+        "name": "X5"
+    },
+    {
+        "name": "5 series"
+    },
+    {
+        "name": "7 series"
+    },
+    {
+        "name": "X6"
+    },
+    {
+        "name": "X7"
+    },
+    {
+        "name": "525"
+    },
+    {
+        "name": "520"
+    },
+    {
+        "name": "318"
+    },
+    {
+        "name": "M5"
+    },
+    {
+        "name": "324"
+    },
+    {
+        "name": "5 series GT"
+    },
+    {
+        "name": "1 series"
+    },
+    {
+        "name": "3 series GT"
+    },
+    {
+        "name": "735"
+    },
+    {
+        "name": "518"
+    },
+    {
+        "name": "330"
+    },
+    {
+        "name": "X3"
+    },
+    {
+        "name": "545"
+    },
+    {
+        "name": "740"
+    },
+    {
+        "name": "540"
+    },
+    {
+        "name": "X1"
+    },
+    {
+        "name": "2 series"
+    },
+    {
+        "name": "X6 M"
+    },
+    {
+        "name": "528"
+    },
+    {
+        "name": "730"
+    },
+    {
+        "name": "530"
+    },
+    {
+        "name": "6 series"
+    },
+    {
+        "name": "745"
+    },
+    {
+        "name": "Серия 4"
+    },
+    {
+        "name": "116"
+    },
+    {
+        "name": "X5 M"
+    },
+    {
+        "name": "523"
+    },
+    {
+        "name": "328"
+    },
+    {
+        "name": "1M"
+    },
+    {
+        "name": "728"
+    },
+    {
+        "name": "325"
+    },
+    {
+        "name": "316"
+    },
+    {
+        "name": "M4"
+    },
+    {
+        "name": "645"
+    },
+    {
+        "name": "750LI"
+    },
+    {
+        "name": "i3"
+    },
+    {
+        "name": "X4"
+    },
+    {
+        "name": "5 Series"
+    },
+    {
+        "name": "3 Series"
+    },
+    {
+        "name": "321"
+    },
+    {
+        "name": "M3"
+    },
+    {
+        "name": "6 Series"
+    },
+    {
+        "name": "4 Series"
+    },
+    {
+        "name": "7 Series"
+    },
+    {
+        "name": "i4"
+    },
+    {
+        "name": "Z3"
+    },
+    {
+        "name": "1 Series"
+    },
+    {
+        "name": "8 Series"
+    },
+    {
+        "name": "E9"
+    },
+    {
+        "name": "X2"
+    },
+    {
+        "name": "2 Series"
+    },
+    {
+        "name": "2 Series Gran Tourer"
+    },
+    {
+        "name": "118"
+    },
+    {
+        "name": "2 Series Active Tourer"
+    },
+    {
+        "name": "315"
+    },
+    {
+        "name": "3200"
+    },
+    {
+        "name": "535"
+    },
+    {
+        "name": "428"
+    },
+    {
+        "name": "M6"
+    },
+    {
+        "name": "340"
+    },
+    {
+        "name": "750"
+    }
+]
