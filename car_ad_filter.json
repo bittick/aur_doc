@@ -923,3 +923,473 @@
         }
     ]
 }
+
+//api/car_ad_filter/?model=Zafira,Duster
+
+{
+    "page_count": 34,
+    "count": 334,
+    "current_page": 1,
+    "pages_data": {
+        "previous_url": null,
+        "next_url": "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=2",
+        "page_links": [
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster",
+                1,
+                true,
+                false
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=2",
+                2,
+                false,
+                false
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=3",
+                3,
+                false,
+                false
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=4",
+                4,
+                false,
+                false
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=5",
+                5,
+                false,
+                false
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=6",
+                6,
+                false,
+                false
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=7",
+                7,
+                false,
+                false
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=8",
+                8,
+                false,
+                false
+            ],
+            [
+                null,
+                null,
+                false,
+                true
+            ],
+            [
+                "http://localhost:8000/api/car_ad_filter/?model=Zafira%2CDuster&page=34",
+                34,
+                false,
+                false
+            ]
+        ]
+    },
+    "results": [
+        {
+            "id": 167373,
+            "ad_id": 214953891,
+            "price": 10990,
+            "production_date": 2012,
+            "mileage": 122400,
+            "engine_capacity": 1.6,
+            "title": "RENAULT DUSTER 1.6i 4x4 Кредит/Лизинг/Обмен",
+            "description": null,
+            "images": [
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/fb20b115-5602-4d1a-bed9-6242c6f41f86.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/57ec1f75-92f6-44bb-b344-c7b25c8d8ae0.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/9e9fc6bc-9917-4522-b0e5-3aada1c7a0d8.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/8c0f4fc8-64d8-475b-8147-d4ce60931f10.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/3fd62681-1be9-4f05-a262-0aa7ed4d54bd.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/c1c1323c-3390-48bd-95ee-4c3a7b3a2042.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/b69c211e-de93-4b67-86bf-1d6446ebb17b.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/7369f2c1-7720-4f42-b0fa-6f21ae1c7066.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/59de4739-63c7-4fff-acb8-46f71bae24bd.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/60e556e4-c87c-42f9-b130-71b580c81032.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/09fbca3d-8b2d-4dae-a7ff-30755e406a4c.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/bfebe630-f1f6-4482-85e5-e33332048038.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/58bf87aa-6304-4700-8c76-c0b8d5ae9b13.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/c300391d-7e16-47dd-bb67-3b12b7cba496.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/39c12360-23ef-4e33-a2ec-25a79a742944.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/fd8cb7fc-d7ac-4927-8aec-c4621f8aec2a.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/7978c2c0-a2b8-473a-9ab3-670a59432d4c.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/a3107643-a878-4356-bfb4-aff753525612.jpg"
+            ],
+            "edit_date": "2024-02-16T17:20:54.396743+03:00",
+            "create_date": "2024-02-16T17:20:54.396757+03:00",
+            "price_history": {
+                "2024-02-16T17:20:54.394548": 10990
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Гродненская",
+            "area": "Гродно",
+            "color": "Черный"
+        },
+        {
+            "id": 167315,
+            "ad_id": 213651261,
+            "price": 11000,
+            "production_date": 2013,
+            "mileage": 134563,
+            "engine_capacity": 2.0,
+            "title": "Renault Duster ",
+            "description": null,
+            "images": [
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/a4e1f563-ddc7-477a-af40-3f6f284b9297.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/b8d78029-2d5d-4a26-b6a8-eb19c583d08b.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/bbb4861f-4930-49a0-ab3f-1d817111a50b.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/74bdac33-177b-4a20-8edf-dd198cdf8b73.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/1fc97330-87e1-406a-b088-ad2a6cb54f3e.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/fea9fcac-6718-4977-bbe1-4139e1f0b0fa.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/d5ee3eca-ed56-4351-bf22-4b77fc05aaec.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/37fea520-7076-465c-922b-1a1531c8a64e.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/5603219e-fa48-45f9-946c-b7542bc1ceb6.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/d1312f4b-b060-4bc8-ad5f-0dd360ac10bd.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/18cab529-2be1-43ec-9202-fa418c9910d6.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/4015b41d-8618-4c91-9151-7f2ecf51899c.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/1a9e606b-0a5b-4d7b-873b-3338740d717f.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/6dfa0a28-3128-4373-8a67-92824d5a9574.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/689a5673-96ea-47d4-b28a-d4b0fd43158b.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/0bf98b65-fe60-4939-b19d-69fb53b844f3.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/82acb069-5fa4-4803-996b-a27f48963abf.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/2b5f9e9d-3cc8-471b-84b7-95bcdc0f52ee.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/ff1a0584-5e1d-4e12-b123-10917914b1aa.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/5d27d51f-b7b8-459a-a3cd-7d4b8a7cc556.jpg"
+            ],
+            "edit_date": "2024-02-16T17:20:53.738012+03:00",
+            "create_date": "2024-02-16T17:20:53.738034+03:00",
+            "price_history": {
+                "2024-02-16T17:20:53.735038": 11000
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Автоматическая",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Передний",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Минск",
+            "area": "Московский",
+            "color": "Коричневый"
+        },
+        {
+            "id": 167286,
+            "ad_id": 215648618,
+            "price": 14950,
+            "production_date": 2017,
+            "mileage": 190000,
+            "engine_capacity": 2.0,
+            "title": "Атомобиль",
+            "description": null,
+            "images": [
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/d1cb3c80-4917-40a5-bc10-27c65086078c.jpg"
+            ],
+            "edit_date": "2024-02-16T17:20:53.401672+03:00",
+            "create_date": "2024-02-16T17:20:53.401684+03:00",
+            "price_history": {
+                "2024-02-16T17:20:53.399882": 14950
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Гомельская",
+            "area": "Светлогорск",
+            "color": "Зеленый"
+        },
+        {
+            "id": 167272,
+            "ad_id": 197489018,
+            "price": 21000,
+            "production_date": 2019,
+            "mileage": 79130,
+            "engine_capacity": 1.5,
+            "title": "Рено дастер 1.5 dci",
+            "description": null,
+            "images": [
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1408671101.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1450095710.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1441572391.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1442764377.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1434241058.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1417194420.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1425717739.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/14/1433049072.jpg?rule=gallery"
+            ],
+            "edit_date": "2024-02-16T17:20:53.252026+03:00",
+            "create_date": "2024-02-16T17:20:53.252041+03:00",
+            "price_history": {
+                "2024-02-16T17:20:53.249826": 21000
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Дизель",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Брестская",
+            "area": "Малорита",
+            "color": "Черный"
+        },
+        {
+            "id": 167269,
+            "ad_id": 215806480,
+            "price": 13575,
+            "production_date": 2016,
+            "mileage": 98847,
+            "engine_capacity": 2.0,
+            "title": "Renault Duster I Рестайлинг 2.0 AT (143 л.с.)",
+            "description": null,
+            "images": [
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/d59f26e5-699c-4215-beb0-e2059101217b.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/94f2bce2-e45d-44c8-8816-ab70752fd8cf.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/dec6dfe3-f609-4eee-b030-6def19b03336.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/fd735ed8-a612-4e3c-a044-b5829b3faf72.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/b231dd8b-a079-4d13-8a04-3c41e0848f10.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/dd3d1b12-a342-4855-98b4-281d4f37388b.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/da20c526-bb90-41e3-a46e-1c7f49e9be8e.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/cdbb9da8-d10c-4b82-9648-16098ed63a35.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/e8663440-a159-4d94-a267-bb4e6e754381.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/62b5154b-68f7-4ae2-968b-6e508dbbed07.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/368eefc3-7055-4977-bbb0-c081e811381e.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/c61bb2f7-353a-40db-9f93-d0c569386648.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/f6f7e15e-3b68-4c21-8efe-44b661648ce6.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/0e58c58d-87b0-4988-a5a4-a0fec9fef491.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/1f61029e-48d7-4b77-bb86-c6197255b02d.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/1fce0691-b594-4896-a0d8-d27469f50de3.jpg"
+            ],
+            "edit_date": "2024-02-16T17:20:53.217519+03:00",
+            "create_date": "2024-02-16T17:20:53.217532+03:00",
+            "price_history": {
+                "2024-02-16T17:20:53.215575": 13575
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Автоматическая",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Минск",
+            "area": "Центральный",
+            "color": "Серый / серебристый"
+        },
+        {
+            "id": 167238,
+            "ad_id": 204892226,
+            "price": 17500,
+            "production_date": 2019,
+            "mileage": 120000,
+            "engine_capacity": 2.0,
+            "title": "Продам Renault Duster adventure",
+            "description": null,
+            "images": [
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/73eaee8e-eb49-4ecd-928a-0123c06cee8b.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/d64c40ca-9590-4e2b-a437-11ead457e5fc.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/f02c0c7d-681a-4564-b1bc-0b3d13bb3ced.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/27513744-ff3f-429c-a1c9-37e62ab3fcd1.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/83317893-c160-4ad6-b9a8-a71dd12313f2.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/3c46878c-6cf2-4580-8cd3-097722635933.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/9b08b601-339a-4dbd-ad3d-66f6ee6d77cc.jpg"
+            ],
+            "edit_date": "2024-02-16T17:20:52.887408+03:00",
+            "create_date": "2024-02-16T17:20:52.887423+03:00",
+            "price_history": {
+                "2024-02-16T17:20:52.885252": 17500
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Минск",
+            "area": "Советский",
+            "color": "Серый / серебристый"
+        },
+        {
+            "id": 167235,
+            "ad_id": 211099612,
+            "price": 12950,
+            "production_date": 2017,
+            "mileage": 76000,
+            "engine_capacity": 2.0,
+            "title": "RENAULT DUSTER 2.0i 4x4 Кредит/Лизинг/Обмен",
+            "description": null,
+            "images": [
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/26da6039-04c8-4752-9bfe-8ae8ddb8a3fe.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/73f7cbd0-9c30-4661-896e-d620a751a225.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/8752c8c1-7f4c-479f-a4a7-4bf1337ae628.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/8c38e1e0-60dd-40f4-9573-05787e4a1119.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/916d9456-5024-4d92-abff-05ad0c80b852.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/cd60caea-bb0e-4bba-8c07-8c9658080f4f.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/411a7506-3094-4d16-9dda-aca65710b074.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/4dd199d6-900e-41df-8058-22069ade61be.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/fd52c1b9-cd52-4404-a1a2-4a2ff1f5473d.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/a5917e27-d731-425e-b297-0071ec34f862.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/e4beb302-5280-4202-919f-d826fd21caf4.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/22ea61e2-644e-476b-a7ac-1b1515f01b81.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/8880d4a3-ebff-47a3-987b-4e3dcbc69ceb.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/e29cd5b6-3f9f-42a6-8821-cb6e16ae49d4.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/5896a200-d72e-41bf-961e-e8ebb296cd28.jpg"
+            ],
+            "edit_date": "2024-02-16T17:20:52.854897+03:00",
+            "create_date": "2024-02-16T17:20:52.854918+03:00",
+            "price_history": {
+                "2024-02-16T17:20:52.852705": 12950
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Гродненская",
+            "area": "Гродно",
+            "color": "Черный"
+        },
+        {
+            "id": 167226,
+            "ad_id": 147609609,
+            "price": 27000,
+            "production_date": 2018,
+            "mileage": 77000,
+            "engine_capacity": 1.5,
+            "title": "Рено Дастер",
+            "description": null,
+            "images": [
+                "https://yams.kufar.by/api/v1/kufar-ads/images/29/2925291597.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/29/2932935362.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/29/2941458681.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/29/2910941363.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/29/2927988001.jpg?rule=gallery"
+            ],
+            "edit_date": "2024-02-16T17:20:52.763899+03:00",
+            "create_date": "2024-02-16T17:20:52.763925+03:00",
+            "price_history": {
+                "2024-02-16T17:20:52.761350": 27000
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Дизель",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Гомельская",
+            "area": "Гомель",
+            "color": "Черный"
+        },
+        {
+            "id": 167214,
+            "ad_id": 212342140,
+            "price": 8200,
+            "production_date": 2013,
+            "mileage": 215000,
+            "engine_capacity": 2.0,
+            "title": "Легковые авто",
+            "description": null,
+            "images": [
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/7bf79b30-4455-4969-b388-e0fc774447b2.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/60b0f7c2-e11b-46fc-ae71-74066e4ab018.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/d8b73796-a360-4f79-856d-5f5f3eee86ae.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/29add3fd-80f1-4591-9007-4a5f5b4d8a36.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/ccc0c926-de2b-4749-a883-4233edb29d44.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/7a90b0a7-8deb-4002-8e85-44358f5031c1.jpg",
+                "https://rms7.kufar.by/v1/list_thumbs_2x/adim1/cae69240-4063-4f9f-8404-fadcdc4da417.jpg"
+            ],
+            "edit_date": "2024-02-16T17:20:52.648360+03:00",
+            "create_date": "2024-02-16T17:20:52.648375+03:00",
+            "price_history": {
+                "2024-02-16T17:20:52.646438": 8200
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Полный",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Брестская",
+            "area": "Брест",
+            "color": "Коричневый"
+        },
+        {
+            "id": 167189,
+            "ad_id": 157461807,
+            "price": 14000,
+            "production_date": 2015,
+            "mileage": 86000,
+            "engine_capacity": 1.6,
+            "title": "Рено дастер Duster renault",
+            "description": null,
+            "images": [
+                "https://yams.kufar.by/api/v1/kufar-ads/images/31/3115160568.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/31/3164020654.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/31/3172543973.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/31/3181067292.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/31/3189590611.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/31/3198113930.jpg?rule=gallery",
+                "https://yams.kufar.by/api/v1/kufar-ads/images/31/3106637249.jpg?rule=gallery"
+            ],
+            "edit_date": "2024-02-16T17:20:52.369044+03:00",
+            "create_date": "2024-02-16T17:20:52.369070+03:00",
+            "price_history": {
+                "2024-02-16T17:20:52.366785": 14000
+            },
+            "aggregator": "kufar.by",
+            "brand": "Renault",
+            "model": "Duster",
+            "cars_engine": "Бензин",
+            "cars_gearbox": "Механика",
+            "cars_type": "Внедорожник",
+            "cars_drive": "Передний",
+            "condition": "С пробегом",
+            "country": "Беларусь",
+            "region": "Гродненская",
+            "area": "Гродно",
+            "color": null
+        }
+    ]
+}
